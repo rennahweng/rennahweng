@@ -7,7 +7,6 @@
 👩🏻‍💻 I'm into full-stack dev, mobile app dev, and data science<br>
 🌱 I’m currently learning web dev, UI/UX design, and product management<br>
 ⚡ Fun fact: I'm a new yorker who has never traveled anywhere outside of new york (a very sad fact).<br>
-
-...more to come
+......
 
 [![Rennah's github stats](https://github-readme-stats.vercel.app/api?username=rennahweng&count_private=true&show_icons=true&hide=stars&theme=dracula)](https://github.com/rennahweng/github-readme-stats)
