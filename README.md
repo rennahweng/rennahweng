@@ -1,5 +1,6 @@
 ### Hiya! Welcome to Rennah's Dev Space👋
 
+💖 Passion for social impact tech, accessiblity, and diversity & inclusion<br>
 📚 I'm currently a junior at Columbia University studying computer science and entrepreneurship<br>
 💼 I'm a software engineer intern/Co-Op<br>
 👩🏻‍💻 I'm into full-stack dev, mobile app dev, and data science<br>
