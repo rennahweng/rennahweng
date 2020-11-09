@@ -1,4 +1,4 @@
-### Hiya! Welcome to Rennah's Dev Space👋
+### Hiya 👋 Welcome to Rennah's Dev Space!
 -----
 #### A little bit about me:
 👧🏻 Pronouns: she/her/hers<br>
