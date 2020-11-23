@@ -9,4 +9,4 @@
 ⚡ Fun fact: I'm a new yorker who has never traveled anywhere outside of new york (a very sad fact).<br>
 ......
 
-[![Rennah's github stats](https://github-readme-stats.vercel.app/api?username=rennahweng&count_private=true&show_icons=true&hide=stars&theme=dracula)](https://github.com/rennahweng/github-readme-stats)
+[![Rennah's github stats](https://github-readme-stats.vercel.app/api?username=rennahweng&count_private=true&show_icons=true&hide=stars,issues&theme=dracula)](https://github.com/rennahweng/github-readme-stats)
