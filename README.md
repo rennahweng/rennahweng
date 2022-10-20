@@ -6,7 +6,7 @@
 📚 A senior at Columbia University studying computer science and entrepreneurship<br>
 👩🏻‍💻 I'm currently building for Venture Capital, transportation, and data science<br>
 🌱 I’m currently learning web dev, UI/UX design, and product management<br>
-⚡ Fun fact: <s>I'm a new yorker who has never traveled anywhere outside of new york</s> (_not a fact anymore, just moved to San Francisco!!_)<br>
+⚡ Fun fact: <s>I'm a new yorker who has never traveled anywhere outside of new york</s> (_Been trying to travel more!_)<br>
 ......
 
 [![Rennah's github stats](https://github-readme-stats.vercel.app/api?username=rennahweng&count_private=true&show_icons=true&hide=stars,issues&theme=dracula)](https://github.com/rennahweng/github-readme-stats)
